@@ -1,0 +1,26 @@
+h1#nozaki{
+    color: aqua;
+    text-align: center;
+    background-color: burlywood;
+}
+
+h1#yuta{
+    color:aquamarine;
+    text-align: center;
+    background-color:darksalmon;
+}
+
+h2.anime{
+    color: red;
+    text-align: center;
+    background-color: deepskyblue;
+}
+
+h2.geme{
+    color: green;
+    text-align: center;
+    background-color: chartreuse;
+}
+body{
+    background-image: url(../images/image.background1.jpg)
+}
