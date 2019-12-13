@@ -7,35 +7,65 @@ div.title{
     font-family: "Impact";
     margin: 0px 0px 20px;
 }
+
 div.hyo{
     width: 1000px;
     height: 320px;
     background-color:bisque;
     text-align: center;
-    font-size: 15px;
+    font-size: 0;
     margin: 0px 0px 20px;
 }
+
 div.footer{
     width: 1000px;
     height: 50px;
     background-color: cadetblue;
     text-align: right;
-    font-size: 40px;
+    font-size: 30px;
     
 }
-div.menu{
+
+div.left{
     width: 250px;
-    height: 100px;
+    height: 320px;
     display: inline-block;
     vertical-align: top;
-    font-size: 0;
-    margin: 0px 50px 20px 0px;
+    margin-right: 50px;
+    background-color: aliceblue;
 }
     
-div.images{
+div.right{
     width: 700px;
     height: 320px;
     display: inline-block;
     vertical-align: top;
-    font-size: 0;
+}
+
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
+
+div.menu{
+    width: 250px;
+    height: 100px;
+    margin: 0px 0px 10px;
+    font-size: 15px;
+    background-color: chartreuse;
+    text-align: left;
+}
+div.image{
+    widows:700px;
+    height: 300px;
+    background-color: crimson;
+    font-size: 15px;
+    text-align: left;
+}
+div.text{
+    width: 700px;
+    height: 20px;
+    background-color: cyan;
+    font-size: 15px;
+    text-align: left;
 }
