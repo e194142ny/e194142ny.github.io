@@ -1,0 +1,41 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: aquamarine;
+    text-align: left;
+    font-size: 30px;
+    font-family: "Impact";
+    margin: 0px 0px 20px;
+}
+div.hyo{
+    width: 1000px;
+    height: 320px;
+    background-color:bisque;
+    text-align: center;
+    font-size: 15px;
+    margin: 0px 0px 20px;
+}
+div.footer{
+    width: 1000px;
+    height: 50px;
+    background-color: cadetblue;
+    text-align: right;
+    font-size: 40px;
+    
+}
+div.menu{
+    width: 250px;
+    height: 100px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 0;
+    margin: 0px 50px 20px 0px;
+}
+    
+div.images{
+    width: 700px;
+    height: 320px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 0;
+}
